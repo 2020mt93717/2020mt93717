@@ -41,6 +41,5 @@ conducted by PES college of Engineering Mandya during 2008
 ### Extra Curricular Activities
 
 1. Represented college at zonal level Chess competition.
-2. Won third place in “Jawaharlal Nehru Science Exhibition” a Tamil Nadu state level science
-competition held at Chennai during the year 2003.
+2. Won third place in “Jawaharlal Nehru Science Exhibition” a state level (Tamil Nadu) science competition held at Chennai during the year 2003.
 3. A National Ranked Archer. Represented Karnataka twice in National Archery Tournaments.

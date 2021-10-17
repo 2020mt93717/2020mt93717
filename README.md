@@ -1,17 +1,45 @@
-### Hi there 👋, Its Jaikarthik Natarajan here
-#### A Java Coder with 12+ years of experiance
-![A Java Coder with 12+ years of experiance](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+# <span style="color:navy; font-family:Arial; font-size:1.75em;">Jaikarthik Natarajan</span>
+## <span style="color:navy; font-family:Arial; font-size:1.5em;">Senior Manager, Product Development</span>
 
-I'm Senior Manager working in Oracle Fusion Application.
-
-Skills: JAVA, GO, ADF, OJET
-
-- 🔭 I’m currently working on Fusion GRC 
-- 🌱 I’m currently learning GO 
-- 👯 I’m looking to collaborate on Distributed Syatem Projects in Java 
-- 📫 How to reach me: ja 
-- 😄 Pronouns: He, Him 
-- ⚡ Fun fact: National Level Archer 
+### Profile
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jaikarthik.natarajan/)  
+ A polyglot Software Engineer with over 12+ years experience, expert in Java based systems, posses deep expertise in Oracle Fusion Apps. A craftsman at heart, interested in clean coding and in the Art of Software Architecture and Design. Plays the role of a Senior Engineering Manager as well.
+
+
+### Work Experience
+
+| Year | Organization | Designation |
+| ---- |--------------|-------------|
+| 2020 to till date | Oracle India Pvt Ltd | Senior Manager, Product Development
+| 2016 to 2020 | Oracle India Pvt Ltd | Manager, Product Development
+| 2013 to 2016 | Oracle India Pvt Ltd | Senior Application Engineer
+| 2011 to 2013 | Oracle India Pvt Ltd | Application Engineer
+| 2009 to 2011 | Kumaran Systems Pvt Ltd| Programmer
+
+### Education
+| Year | Academic Institution |
+| ---- | --------------|
+| 2008 | B.E in Electronics and Communication From Anna University, Chennai
+| 2004 | HSC, Brotherhood Matriculation, Chennai
+| 2002 | SSE, Sri Shankara Sr. Sec School, Chenna
+
+### International Conference
+
+Presented a paper on **“Performance of scheduling algorithm in IP networks
+for video streaming”** in international conference on Cognition and Recognition
+conducted by PES college of Engineering Mandya during 2008
+
+### Academic Achievements
+
+1. Won best student award in 2008
+2. Won the general proficiency award twice in High school.
+3. Was awarded the title “Cyber science master” by LG.
+4. Have won many inter college quiz competitions.
+
+### Extra Curricular Activities
+
+1. Represented college at zonal level Chess competition.
+2. Won third place in “Jawaharlal Nehru Science Exhibition” a state level science
+competition held at chromepet during the year 2003.
+3. A National Ranked Archer. Represented Karnataka twice in National Archery Tournaments.

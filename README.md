@@ -38,10 +38,10 @@ conducted by PES college of Engineering Mandya during 2008
 
 ### Academic Achievements
 
-1. Won best student award in 2008
+1. Won best outgoing student award in 2008
 2. Won the general proficiency award twice in High school.
 3. Was awarded the title “Cyber science master” by LG.
-4. Have won many inter college quiz competitions.
+4. Have won many intercollegiate quiz competitions.
 
 ### Extra Curricular Activities
 

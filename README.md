@@ -6,6 +6,9 @@
 
  A polyglot Software Engineer with over 12+ years experience, expert in Java based systems, posses deep expertise in Oracle Fusion Apps. A craftsman at heart, interested in clean coding and in the Art of Software Architecture and Design. Plays the role of a Senior Engineering Manager as well.
 
+### Contact Info
+Email: jaikarthik.natarajan@gmail.com
+Linkedin : [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/jaikarthik-natarajan/)  
 
 ### Work Experience
 

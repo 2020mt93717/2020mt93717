@@ -11,18 +11,18 @@
 
 | Year | Organization | Designation |
 | ---- |--------------|-------------|
-| 2020 to till date | Oracle India Pvt Ltd | Senior Manager, Product Development
-| 2016 to 2020 | Oracle India Pvt Ltd | Manager, Product Development
-| 2013 to 2016 | Oracle India Pvt Ltd | Senior Application Engineer
-| 2011 to 2013 | Oracle India Pvt Ltd | Application Engineer
-| 2009 to 2011 | Kumaran Systems Pvt Ltd| Programmer
+| 2020 to till date | Oracle India Pvt Ltd | Senior Manager, Product Development|
+| 2016 to 2020 | Oracle India Pvt Ltd | Manager, Product Development|
+| 2013 to 2016 | Oracle India Pvt Ltd | Senior Application Engineer|
+| 2011 to 2013 | Oracle India Pvt Ltd | Application Engineer|
+| 2009 to 2011 | Kumaran Systems Pvt Ltd| Programmer|
 
 ### Education
 | Year | Academic Institution |
 | ---- | --------------|
-| 2008 | B.E in Electronics and Communication From Anna University, Chennai
-| 2004 | HSC, Brotherhood Matriculation, Chennai
-| 2002 | SSE, Sri Shankara Sr. Sec School, Chenna
+| 2008 | B.E in Electronics and Communication From Anna University, Chennai|
+| 2004 | HSC, Brotherhood Matriculation, Chennai|
+| 2002 | SSE, Sri Shankara Sr. Sec School, Chennai|
 
 ### International Conference
 
